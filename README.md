@@ -18,4 +18,5 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zrongl/facetob/master/dydl.plist
 
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zrongl/facetob/master/dnqd.plist
 
