@@ -8,7 +8,7 @@ hyqd 会议签到
 dnqd 对内活动签到
 dwqd 对外活动签到
 
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zrongl/facetob/master/hyqd.plist
+    itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zrongl/facetob/master/hyqd.plist
 
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zrongl/facetob/master/mj.plist
 
